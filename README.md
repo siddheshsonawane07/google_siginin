@@ -1,4 +1,4 @@
-# catalog_app
+# Google Signin with Getx State Management
 
 A new Flutter project.
 
